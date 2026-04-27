@@ -1,2 +1,3 @@
 # kentavr-core
-Core board for open source AVR-based industrial control platform
+Core board for AVR-based open-source platform for home and industrial control systems
+
